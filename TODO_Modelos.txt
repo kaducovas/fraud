@@ -1,0 +1,27 @@
+Modelos a implementar:
+
+Classificadores Lineares Generalizados
+  Regressão Logística OK
+    | com Regularização OK
+  Perceptron OK
+  Regressão Polinomial ? (cria novas features a partir de combinações lineares das originais)
+
+Naive Bayes OK
+
+(K-)Nearest Neighbours (usar ball tree) OK
+
+Discriminador Linear      (LDA) OK
+Discriminador Quadrático  (QDA) OK
+
+Rede neural MLP
+
+Árvore de Classificação OK
+Ensembles
+  Bagging (Pasting algorithm)
+  Random Forest
+  Ada/Gradient Boost ou similares
+
+SVM Linear
+SVM Outros kernels
+
+Mistura Gaussiana (Não supervisionado)
